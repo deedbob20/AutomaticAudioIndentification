@@ -1,6 +1,5 @@
 # AutomaticAudioIndentification
 
-# Audio Fingerprinting and Identification (Shazam Algorithm)
 
 This repository implements the Shazam-style audio fingerprinting algorithm proposed by **Wang (2003)**, designed for robust and efficient audio identification from short audio clips. The implementation is organized into two main Python scripts and a Jupyter notebook for testing and demonstration.
 
