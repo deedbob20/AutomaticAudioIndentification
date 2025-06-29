@@ -24,7 +24,7 @@ This repository implements the Shazam-style audio fingerprinting algorithm propo
 This project implements the algorithm introduced in:
 
 > Wang, A. (2003). *An industrial-strength audio search algorithm*. In Proceedings of the 4th International Conference on Music Information Retrieval (ISMIR).  
-> [Link to paper (PDF)](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf)
+> [Link to paper (PDF)]([https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf](https://www.ee.columbia.edu/~dpwe/papers/Wang03-shazam.pdf))
 
 Key features of the algorithm:
 - Converts audio into spectrogram peak "constellations"
